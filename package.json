@@ -3,7 +3,7 @@
   "publisher": "octopus",
   "displayName": "Oct Python Extension Pack",
   "description": "VSCode extensions for Python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/OctopusWen/python-extension-pack"},
@@ -13,6 +13,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "icon": "icon.png",
   "extensionPack": [ 
     "batisteo.vscode-django", 
     "donjayamanne.python-environment-manager", 
